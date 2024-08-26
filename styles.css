@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    color: white;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgba(35, 39, 47, 1);
+    
+}
+
+p {
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+ul {
+    font-size: 1.2rem;
+    font-weight: 400;
+
+    padding: 1.5rem;
+}
+
+li {
+    font-weight: 200;
+    margin: 0.5rem;
+}
+
+.greycontainer{
+    background-color: rgba(52, 58, 70, 1);
+    border-radius: 20px;
+
+}
+
+h3{
+    font-size: 1.4rem;
+    position: relative;
+    right: -10px;
+}
